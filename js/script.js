@@ -87,7 +87,7 @@ function calcVolPira(){
 }
 
 
-function calcVolPira(){
+function calcVolBsk(){
     let valorA =  Number(document.getElementById("vlrA").value)
     let valorB =  Number(document.getElementById("vlrB").value)
     let valorC =  Number(document.getElementById("vlrC").value)
